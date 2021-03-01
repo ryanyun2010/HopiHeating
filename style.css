@@ -7,6 +7,9 @@
     text-align:center;
     color:black
 }
+h1{
+    font-family: 'Noto Serif', serif;
+}
 #mainh12{
     position:absolute;
     font-size:5vh;
@@ -68,6 +71,9 @@
     position:absolute;
     top:50vh;
     padding-top:5vh;
+    padding-left:7vw;
+    padding-right:7vw;
+    padding-bottom:5vh;
 }
 #wood{
     display:block;
