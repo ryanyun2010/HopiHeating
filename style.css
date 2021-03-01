@@ -16,6 +16,11 @@
     text-align:center;
     color:white;
 }
+#mainh13{
+    font-size:4vh;
+    text-align:center;
+    color:black;
+}
 
 .active{
     color:#449999;
@@ -43,12 +48,15 @@
 #donate{
     display:block;
     width:100vw;
-    height:25vh;
+    height:40vh;
     text-align:center;
     background-color:#efefef;
     position:absolute;
     top:50vh;
     padding-top:5vh;
+    padding-left:7vw;
+    padding-right:7vw;
+    padding-bottom:5vh;
 }
 
 #problem{
@@ -60,4 +68,24 @@
     position:absolute;
     top:50vh;
     padding-top:5vh;
+}
+#wood{
+    display:block;
+    width:100vw;
+    height:25;
+    text-align:center;
+    background-color:#dfdfdf;
+    position:absolute;
+    top:90vh;
+    padding-top:5vh;
+    padding-bottom:5vh;
+    padding-left:7vw;
+    padding-right:7vw;
+}
+
+nav{
+    position:absolute;
+    width:50vw;
+    left:25vw;
+    top:2vh;
 }
