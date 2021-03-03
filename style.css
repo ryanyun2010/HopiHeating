@@ -1,7 +1,7 @@
 #mainh1{
     position:absolute;
     font-size:5vh;
-    top:35vh;
+    top:30vh;
     width:100vw;
     left:0vw;
     text-align:center;
@@ -44,6 +44,7 @@ h1{
     background:url("background.png");
     height:50vh;
     width:100vw;
+    display:block;
     background-size:cover; 
     background-position-y: center;
 }
@@ -51,11 +52,8 @@ h1{
 #donate{
     display:block;
     width:100vw;
-    height:40vh;
     text-align:center;
     background-color:#efefef;
-    position:absolute;
-    top:50vh;
     padding-top:5vh;
     padding-left:7vw;
     padding-right:7vw;
@@ -65,28 +63,23 @@ h1{
 #problem{
     display:block;
     width:100vw;
-    height:25vh;
     text-align:center;
-    background-color:#efefef;
-    position:absolute;
-    top:50vh;
     padding-top:5vh;
     padding-left:7vw;
     padding-right:7vw;
     padding-bottom:5vh;
+    background-color:#efefef;
 }
 #wood{
     display:block;
     width:100vw;
-    height:25;
     text-align:center;
     background-color:#dfdfdf;
-    position:absolute;
-    top:90vh;
     padding-top:5vh;
     padding-bottom:5vh;
     padding-left:7vw;
     padding-right:7vw;
+
 }
 
 nav{
