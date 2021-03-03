@@ -1,90 +1,102 @@
-#mainh1{
-    position:absolute;
-    font-size:5vh;
-    top:30vh;
-    width:100vw;
-    left:0vw;
-    text-align:center;
-    color:black
+#mainh1 {
+    position: absolute;
+    font-size: 5vh;
+    top: 30vh;
+    width: 100vw;
+    left: 0vw;
+    text-align: center;
+    color: black
 }
-h1{
+
+h1 {
     font-family: 'Noto Serif', serif;
 }
-#mainh12{
-    position:absolute;
-    font-size:5vh;
-    top:25vh;
-    width:100vw;
-    left:0vw;
-    text-align:center;
-    color:white;
-}
-#mainh13{
-    font-size:4vh;
-    text-align:center;
-    color:black;
+
+#mainh12 {
+    position: absolute;
+    font-size: 5vh;
+    top: 25vh;
+    width: 100vw;
+    left: 0vw;
+    text-align: center;
+    color: white;
 }
 
-.active{
-    color:#449999;
+#mainh13 {
+    font-size: 4vh;
+    text-align: center;
+    color: black;
+}
+
+.active {
+    color: #449999;
     text-decoration: underline;
 }
 
-.nav-link:hover{
-    color:#449999;
+.nav-link:hover {
+    color: #449999;
     text-decoration: underline;
 }
-#hero{
-    background:url("background.png");
-    height:100vh;
-    width:100vw;
-    background-size:cover;
+
+#hero {
+    background: url("background.png");
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
 }
-#hero2{
-    background:url("background.png");
-    height:50vh;
-    width:100vw;
-    display:block;
-    background-size:cover; 
+
+#hero2 {
+    background: url("background.png");
+    height: 50vh;
+    width: 100vw;
+    display: block;
+    background-size: cover;
     background-position-y: center;
 }
 
-#donate{
-    display:block;
-    width:100vw;
-    text-align:center;
-    background-color:#efefef;
-    padding-top:5vh;
-    padding-left:7vw;
-    padding-right:7vw;
-    padding-bottom:5vh;
+#donate {
+    display: block;
+    width: 100vw;
+    text-align: center;
+    background-color: #efefef;
+    padding-top: 5vh;
+    padding-left: 7vw;
+    padding-right: 7vw;
+    padding-bottom: 5vh;
 }
 
-#problem{
-    display:block;
-    width:100vw;
-    text-align:center;
-    padding-top:5vh;
-    padding-left:7vw;
-    padding-right:7vw;
-    padding-bottom:5vh;
-    background-color:#efefef;
+#problem {
+    display: block;
+    width: 100vw;
+    text-align: center;
+    padding-top: 5vh;
+    padding-left: 7vw;
+    padding-right: 7vw;
+    padding-bottom: 5vh;
+    background-color: #efefef;
 }
-#wood{
-    display:block;
-    width:100vw;
-    text-align:center;
-    background-color:#dfdfdf;
-    padding-top:5vh;
-    padding-bottom:5vh;
-    padding-left:7vw;
-    padding-right:7vw;
+
+#wood {
+    display: block;
+    width: 100vw;
+    text-align: center;
+    background-color: #dfdfdf;
+    padding-top: 5vh;
+    padding-bottom: 5vh;
+    padding-left: 7vw;
+    padding-right: 7vw;
 
 }
 
-nav{
+nav {
+    position: absolute;
+    width: 50vw;
+    left: 25vw;
+    top: 2vh;
+}
+#logo{
+    width:8vw;
     position:absolute;
-    width:50vw;
-    left:25vw;
     top:2vh;
+    left:2vw;
 }
