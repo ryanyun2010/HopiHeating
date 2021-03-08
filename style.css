@@ -90,8 +90,8 @@ h1 {
 
 nav {
     position: absolute;
-    width: 50vw;
-    left: 25vw;
+    width: 70vw;
+    left: 15vw;
     top: 2vh;
 }
 #logo{
@@ -99,4 +99,8 @@ nav {
     position:absolute;
     top:2vh;
     left:2vw;
+}
+#donatebutton{
+    margin:0px;
+    padding:0px;
 }
